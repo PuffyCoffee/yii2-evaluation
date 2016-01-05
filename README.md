@@ -36,7 +36,8 @@ Once the extension is installed, simply use it in your code by  :
 	'scale' => ['min' => 0, 'max' => 5],
 	'sections' => ['2015 Scores', '2016 Scores'],
 	'enableComment' => true,
-]); ?>```
+]); ?>
+```
 
 Screenshot
 ----
