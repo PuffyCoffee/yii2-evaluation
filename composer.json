@@ -12,6 +12,7 @@
             "role": "Developer"
         }
     ],
+    "minimum-stability" : "dev",
     "support": {
         "source": "https://github.com/PuffyCoffee/yii2-evaluation.git"
     },
