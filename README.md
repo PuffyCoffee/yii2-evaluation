@@ -41,4 +41,5 @@ Once the extension is installed, simply use it in your code by  :
 Screenshot
 ----
 
-![Self-evaluation](/screenshot/survey.png)
+![Self-evaluation](https://raw.githubusercontent.com/PuffyCoffee/yii2-evaluation/master/screenshot/survey.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
