@@ -41,4 +41,6 @@ Once the extension is installed, simply use it in your code by  :
 Screenshot
 ----
 
-![Self-evaluation](https://raw.githubusercontent.com/PuffyCoffee/yii2-evaluation/master/screenshot/survey.png)
+![Self-evaluation](https://raw.github.com/PuffyCoffee/yii2-evaluation/master/screenshot/survey.png)
+![Doughnut chart](https://raw.github.com/PuffyCoffee/3D-Pie-chart/master/screenshot/doughnut.png "Doughnut Chart")
+
