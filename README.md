@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist peng/yii2-evaluation "*"
+php composer.phar require --prefer-dist peng/yii2-evaluation "0.1.0"
 ```
 
 or add
 
 ```
-"peng/yii2-evaluation": "*"
+"peng/yii2-evaluation": "0.1.0"
 ```
 
 to the require section of your `composer.json` file.
@@ -37,3 +37,8 @@ Once the extension is installed, simply use it in your code by  :
 	'sections' => ['2015 Scores', '2016 Scores'],
 	'enableComment' => true,
 ]); ?>```
+
+Screenshot
+----
+
+![Self-evaluation](/screenshot/survey.png)
