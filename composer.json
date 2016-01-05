@@ -2,14 +2,19 @@
     "name": "peng/yii2-evaluation",
     "description": "An Yii2 extension, a widget which helps creating online survey, evaluation, etc",
     "type": "yii2-extension",
-    "keywords": ["yii2","extension","survey","evaluation","widget","scale","question","comment"],
+    "keywords": ["yii2","extension","survey","evaluation","widget","scale","question","comment","matrix"],
     "license": "MIT",
     "authors": [
         {
             "name": "Peng Zhang",
-            "email": "nj.pengzhang@gmail.com"
+            "email": "nj.pengzhang@gmail.com",
+            "homepage": "http://pengzhang.me",
+            "role": "Developer"
         }
     ],
+    "support": {
+        "source": "https://github.com/PuffyCoffee/yii2-evaluation.git"
+    },
     "require": {
         "yiisoft/yii2": "*"
     },
@@ -17,5 +22,9 @@
         "psr-4": {
             "peng\\evaluation\\": ""
         }
-    }
+    },
+    "repositories":[{
+        "type": "git",
+        "url": "https://github.com/PuffyCoffee/yii2-evaluation.git"
+    }]
 }
