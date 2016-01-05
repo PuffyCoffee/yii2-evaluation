@@ -28,4 +28,12 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \peng\evaluation\RadioButtonMatrix::widget(); ?>```
+<?= \peng\evaluation\RadioButtonMatrix::widget([
+	'id' => 'self-evalution',
+	'questions' => ['Strength of Mind', 'Open Communication', 'Leadership',
+		'Understanding', 'Teamwork', 'Integrity', 'Originality', 'Notification',
+	],
+	'scale' => ['min' => 0, 'max' => 5],
+	'sections' => ['2015 Scores', '2016 Scores'],
+	'enableComment' => true,
+]); ?>```
